@@ -6,6 +6,39 @@
 
 body {
     font-family: "Open Sans", sans-serif;
+    background-color: #F5F4F0;
+    color: #696969;
+}
+
+main {
+    margin: auto;
+    box-sizing: border-box;
+    padding: 88px 80px 65px 80px;
+}
+
+h2 {
+    color: #E1624F;
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-bottom: 8px;
+
+}
+
+h1 {
+    color: #1B1B1B;
+    font-size: 36px;
+}
+
+h3 {
+    color: #333333;
+    font-size: 28px;
+}
+
+
+img {
+    border-radius: 28px;
+    max-width: 1220px;
+    margin-top: 48px;
 }
 
 .divider {
